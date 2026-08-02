@@ -1,0 +1,7 @@
+package org.example.classes;
+
+public interface Person {
+    void introduce(String name);
+    void sayAge(int age);
+    void sayWhereFrom(String city, String country);
+}
